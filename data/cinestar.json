@@ -14,21 +14,13 @@
       },
       "2026-03-19": {
         "summary": {
-          "shows": 5,
-          "sold": 1402,
-          "seats": 2520,
-          "occupancy": 55.63,
-          "gross": 25770.0
+          "shows": 4,
+          "sold": 1009,
+          "seats": 1974,
+          "occupancy": 51.11,
+          "gross": 18411.0
         },
         "shows": [
-          {
-            "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
-            "session": "249115",
-            "time": "2026-03-19 20:15 CET",
-            "sold": 393,
-            "seats": 546,
-            "gross": 7359.0
-          },
           {
             "cinema": "CineStar Dortmund",
             "session": "340037",
@@ -66,19 +58,19 @@
       "2026-03-20": {
         "summary": {
           "shows": 2,
-          "sold": 525,
+          "sold": 518,
           "seats": 1048,
-          "occupancy": 50.1,
-          "gross": 9816.0
+          "occupancy": 49.43,
+          "gross": 9687.0
         },
         "shows": [
           {
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
             "session": "249925",
             "time": "2026-03-20 20:15 CET",
-            "sold": 158,
+            "sold": 151,
             "seats": 546,
-            "gross": 3000.0
+            "gross": 2871.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
@@ -93,10 +85,10 @@
       "2026-03-21": {
         "summary": {
           "shows": 2,
-          "sold": 370,
+          "sold": 371,
           "seats": 502,
-          "occupancy": 73.71,
-          "gross": 6870.0
+          "occupancy": 73.9,
+          "gross": 6888.0
         },
         "shows": [
           {
@@ -111,15 +103,15 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "274721",
             "time": "2026-03-21 19:30 CET",
-            "sold": 370,
+            "sold": 371,
             "seats": 502,
-            "gross": 6870.0
+            "gross": 6888.0
           }
         ]
       },
       "2026-03-22": {
         "summary": {
-          "shows": 14,
+          "shows": 13,
           "sold": 1065,
           "seats": 3686,
           "occupancy": 28.89,
@@ -146,14 +138,6 @@
             "cinema": "CineStar Augsburg",
             "session": "247410",
             "time": "2026-03-22 18:50 CET",
-            "sold": 0,
-            "seats": 0,
-            "gross": 0
-          },
-          {
-            "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
-            "session": "155356",
-            "time": "2026-03-22 19:00 CET",
             "sold": 0,
             "seats": 0,
             "gross": 0
