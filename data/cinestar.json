@@ -14,13 +14,21 @@
       },
       "2026-03-19": {
         "summary": {
-          "shows": 2,
-          "sold": 321,
-          "seats": 1006,
-          "occupancy": 31.91,
-          "gross": 5814.0
+          "shows": 5,
+          "sold": 1408,
+          "seats": 2520,
+          "occupancy": 55.87,
+          "gross": 25878.0
         },
         "shows": [
+          {
+            "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
+            "session": "249115",
+            "time": "2026-03-19 20:15 CET",
+            "sold": 398,
+            "seats": 546,
+            "gross": 7449.0
+          },
           {
             "cinema": "CineStar Dortmund",
             "session": "340037",
@@ -33,9 +41,25 @@
             "cinema": "CineStar D\u00fcsseldorf",
             "session": "186743",
             "time": "2026-03-19 19:00 CET",
-            "sold": 192,
+            "sold": 193,
             "seats": 596,
-            "gross": 3456.0
+            "gross": 3474.0
+          },
+          {
+            "cinema": "CineStar Erlangen",
+            "session": "218738",
+            "time": "2026-03-19 19:00 CET",
+            "sold": 323,
+            "seats": 466,
+            "gross": 5814.0
+          },
+          {
+            "cinema": "CineStar Frankfurt am Main Metropolis",
+            "session": "274143",
+            "time": "2026-03-19 19:30 CET",
+            "sold": 365,
+            "seats": 502,
+            "gross": 6783.0
           }
         ]
       },
@@ -95,7 +119,7 @@
       },
       "2026-03-22": {
         "summary": {
-          "shows": 13,
+          "shows": 14,
           "sold": 1065,
           "seats": 3686,
           "occupancy": 28.89,
@@ -165,6 +189,14 @@
             "sold": 150,
             "seats": 596,
             "gross": 2700.0
+          },
+          {
+            "cinema": "CineStar Erfurt",
+            "session": "144891",
+            "time": "2026-03-22 19:30 CET",
+            "sold": 0,
+            "seats": 0,
+            "gross": 0
           },
           {
             "cinema": "CineStar Erlangen",
