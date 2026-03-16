@@ -15,27 +15,27 @@
       "2026-03-19": {
         "summary": {
           "shows": 5,
-          "sold": 1461,
+          "sold": 1473,
           "seats": 2520,
-          "occupancy": 57.98,
-          "gross": 26838.0
+          "occupancy": 58.45,
+          "gross": 27057.0
         },
         "shows": [
           {
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
             "session": "249115",
             "time": "2026-03-19 20:15 CET",
-            "sold": 399,
+            "sold": 403,
             "seats": 546,
-            "gross": 7467.0
+            "gross": 7542.0
           },
           {
             "cinema": "CineStar Dortmund",
             "session": "340037",
             "time": "2026-03-19 19:00 CET",
-            "sold": 135,
+            "sold": 137,
             "seats": 410,
-            "gross": 2472.0
+            "gross": 2508.0
           },
           {
             "cinema": "CineStar D\u00fcsseldorf",
@@ -49,44 +49,44 @@
             "cinema": "CineStar Erlangen",
             "session": "218738",
             "time": "2026-03-19 19:00 CET",
-            "sold": 342,
+            "sold": 343,
             "seats": 466,
-            "gross": 6156.0
+            "gross": 6174.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "274143",
             "time": "2026-03-19 19:30 CET",
-            "sold": 371,
+            "sold": 376,
             "seats": 502,
-            "gross": 6891.0
+            "gross": 6981.0
           }
         ]
       },
       "2026-03-20": {
         "summary": {
           "shows": 2,
-          "sold": 559,
+          "sold": 563,
           "seats": 1048,
-          "occupancy": 53.34,
-          "gross": 10452.0
+          "occupancy": 53.72,
+          "gross": 10524.0
         },
         "shows": [
           {
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
             "session": "249925",
             "time": "2026-03-20 20:15 CET",
-            "sold": 187,
+            "sold": 188,
             "seats": 546,
-            "gross": 3546.0
+            "gross": 3564.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "274720",
             "time": "2026-03-20 19:30 CET",
-            "sold": 372,
+            "sold": 375,
             "seats": 502,
-            "gross": 6906.0
+            "gross": 6960.0
           }
         ]
       },
@@ -120,10 +120,10 @@
       "2026-03-22": {
         "summary": {
           "shows": 14,
-          "sold": 1173,
+          "sold": 1175,
           "seats": 3686,
-          "occupancy": 31.82,
-          "gross": 21339.0
+          "occupancy": 31.88,
+          "gross": 21375.0
         },
         "shows": [
           {
@@ -210,17 +210,17 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "274142",
             "time": "2026-03-22 19:30 CET",
-            "sold": 287,
+            "sold": 291,
             "seats": 502,
-            "gross": 5367.0
+            "gross": 5439.0
           },
           {
             "cinema": "CineStar Mainz",
             "session": "238927",
             "time": "2026-03-22 19:40 CET",
-            "sold": 45,
+            "sold": 43,
             "seats": 298,
-            "gross": 810.0
+            "gross": 774.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
@@ -243,19 +243,19 @@
       "2026-03-23": {
         "summary": {
           "shows": 1,
-          "sold": 87,
+          "sold": 93,
           "seats": 502,
-          "occupancy": 17.33,
-          "gross": 1614.0
+          "occupancy": 18.53,
+          "gross": 1740.0
         },
         "shows": [
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275151",
             "time": "2026-03-23 19:30 CET",
-            "sold": 87,
+            "sold": 93,
             "seats": 502,
-            "gross": 1614.0
+            "gross": 1740.0
           }
         ]
       },
