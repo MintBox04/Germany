@@ -15,19 +15,19 @@
       "2026-03-19": {
         "summary": {
           "shows": 5,
-          "sold": 1461,
+          "sold": 1463,
           "seats": 2520,
-          "occupancy": 57.98,
-          "gross": 26838.0
+          "occupancy": 58.06,
+          "gross": 26874.0
         },
         "shows": [
           {
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
             "session": "249115",
             "time": "2026-03-19 20:15 CET",
-            "sold": 399,
+            "sold": 401,
             "seats": 546,
-            "gross": 7467.0
+            "gross": 7503.0
           },
           {
             "cinema": "CineStar Dortmund",
@@ -93,10 +93,10 @@
       "2026-03-21": {
         "summary": {
           "shows": 2,
-          "sold": 388,
+          "sold": 390,
           "seats": 502,
-          "occupancy": 77.29,
-          "gross": 7197.0
+          "occupancy": 77.69,
+          "gross": 7233.0
         },
         "shows": [
           {
@@ -111,19 +111,19 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "274721",
             "time": "2026-03-21 19:30 CET",
-            "sold": 388,
+            "sold": 390,
             "seats": 502,
-            "gross": 7197.0
+            "gross": 7233.0
           }
         ]
       },
       "2026-03-22": {
         "summary": {
           "shows": 13,
-          "sold": 1169,
-          "seats": 3686,
-          "occupancy": 31.71,
-          "gross": 21267.0
+          "sold": 1070,
+          "seats": 3469,
+          "occupancy": 30.84,
+          "gross": 19485.0
         },
         "shows": [
           {
@@ -146,6 +146,14 @@
             "cinema": "CineStar Augsburg",
             "session": "247410",
             "time": "2026-03-22 18:50 CET",
+            "sold": 0,
+            "seats": 0,
+            "gross": 0
+          },
+          {
+            "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
+            "session": "155356",
+            "time": "2026-03-22 19:00 CET",
             "sold": 0,
             "seats": 0,
             "gross": 0
@@ -213,14 +221,6 @@
             "sold": 43,
             "seats": 298,
             "gross": 774.0
-          },
-          {
-            "cinema": "CineStar Saarbr\u00fccken",
-            "session": "232295",
-            "time": "2026-03-22 19:30 CET",
-            "sold": 99,
-            "seats": 217,
-            "gross": 1782.0
           },
           {
             "cinema": "CineStar Siegen",
