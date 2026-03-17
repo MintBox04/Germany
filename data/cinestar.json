@@ -15,10 +15,10 @@
       "2026-03-19": {
         "summary": {
           "shows": 6,
-          "sold": 1580,
+          "sold": 1575,
           "seats": 2739,
-          "occupancy": 57.69,
-          "gross": 29061.0
+          "occupancy": 57.5,
+          "gross": 28968.0
         },
         "shows": [
           {
@@ -33,68 +33,68 @@
             "cinema": "CineStar Dortmund",
             "session": "340037",
             "time": "2026-03-19 19:00 CET",
-            "sold": 143,
+            "sold": 141,
             "seats": 410,
-            "gross": 2622.0
+            "gross": 2583.0
           },
           {
             "cinema": "CineStar D\u00fcsseldorf",
             "session": "186743",
             "time": "2026-03-19 19:00 CET",
-            "sold": 241,
+            "sold": 239,
             "seats": 596,
-            "gross": 4338.0
+            "gross": 4302.0
           },
           {
             "cinema": "CineStar Erlangen",
             "session": "218738",
             "time": "2026-03-19 19:00 CET",
-            "sold": 356,
+            "sold": 355,
             "seats": 466,
-            "gross": 6408.0
+            "gross": 6390.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "274143",
             "time": "2026-03-19 19:30 CET",
-            "sold": 387,
+            "sold": 389,
             "seats": 502,
-            "gross": 7179.0
+            "gross": 7215.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275582",
             "time": "2026-03-19 20:45 CET",
-            "sold": 36,
+            "sold": 34,
             "seats": 219,
-            "gross": 711.0
+            "gross": 675.0
           }
         ]
       },
       "2026-03-20": {
         "summary": {
           "shows": 6,
-          "sold": 783,
+          "sold": 795,
           "seats": 2295,
-          "occupancy": 34.12,
-          "gross": 14598.0
+          "occupancy": 34.64,
+          "gross": 14826.0
         },
         "shows": [
           {
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
             "session": "249925",
             "time": "2026-03-20 20:15 CET",
-            "sold": 264,
+            "sold": 271,
             "seats": 546,
-            "gross": 4992.0
+            "gross": 5118.0
           },
           {
             "cinema": "CineStar Dortmund",
             "session": "341243",
             "time": "2026-03-20 20:00 CET",
-            "sold": 2,
+            "sold": 0,
             "seats": 226,
-            "gross": 36.0
+            "gross": 0
           },
           {
             "cinema": "CineStar D\u00fcsseldorf",
@@ -124,19 +124,19 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275583",
             "time": "2026-03-20 20:45 CET",
-            "sold": 77,
+            "sold": 84,
             "seats": 219,
-            "gross": 1440.0
+            "gross": 1578.0
           }
         ]
       },
       "2026-03-21": {
         "summary": {
           "shows": 7,
-          "sold": 538,
+          "sold": 536,
           "seats": 1777,
-          "occupancy": 30.28,
-          "gross": 9897.0
+          "occupancy": 30.16,
+          "gross": 9861.0
         },
         "shows": [
           {
@@ -183,9 +183,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275597",
             "time": "2026-03-21 20:45 CET",
-            "sold": 41,
+            "sold": 39,
             "seats": 152,
-            "gross": 738.0
+            "gross": 702.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
@@ -199,11 +199,11 @@
       },
       "2026-03-22": {
         "summary": {
-          "shows": 16,
-          "sold": 1302,
-          "seats": 3848,
-          "occupancy": 33.84,
-          "gross": 23670.0
+          "shows": 15,
+          "sold": 1195,
+          "seats": 3631,
+          "occupancy": 32.91,
+          "gross": 21744.0
         },
         "shows": [
           {
@@ -266,17 +266,17 @@
             "cinema": "CineStar Chemnitz - Am Roten Turm",
             "session": "364124",
             "time": "2026-03-22 19:00 CET",
-            "sold": 123,
+            "sold": 122,
             "seats": 407,
-            "gross": 2214.0
+            "gross": 2196.0
           },
           {
             "cinema": "CineStar Dortmund",
             "session": "340038",
             "time": "2026-03-22 19:00 CET",
-            "sold": 73,
+            "sold": 74,
             "seats": 410,
-            "gross": 1347.0
+            "gross": 1365.0
           },
           {
             "cinema": "CineStar D\u00fcsseldorf",
@@ -319,14 +319,6 @@
             "gross": 1152.0
           },
           {
-            "cinema": "CineStar Saarbr\u00fccken",
-            "session": "232295",
-            "time": "2026-03-22 19:30 CET",
-            "sold": 107,
-            "seats": 217,
-            "gross": 1926.0
-          },
-          {
             "cinema": "CineStar Siegen",
             "session": "186818",
             "time": "2026-03-22 19:30 CET",
@@ -366,27 +358,27 @@
       "2026-03-24": {
         "summary": {
           "shows": 2,
-          "sold": 35,
+          "sold": 40,
           "seats": 504,
-          "occupancy": 6.94,
-          "gross": 660.0
+          "occupancy": 7.94,
+          "gross": 750.0
         },
         "shows": [
           {
             "cinema": "CineStar Erlangen",
             "session": "219822",
             "time": "2026-03-24 19:00 CET",
-            "sold": 7,
+            "sold": 6,
             "seats": 206,
-            "gross": 126.0
+            "gross": 108.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275153",
             "time": "2026-03-24 19:30 CET",
-            "sold": 28,
+            "sold": 34,
             "seats": 298,
-            "gross": 534.0
+            "gross": 642.0
           }
         ]
       }
