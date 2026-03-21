@@ -5,10 +5,10 @@
       "2026-03-21": {
         "summary": {
           "shows": 8,
-          "sold": 1003,
+          "sold": 1002,
           "seats": 1896,
-          "occupancy": 52.9,
-          "gross": 18294.0
+          "occupancy": 52.85,
+          "gross": 18276.0
         },
         "shows": [
           {
@@ -63,9 +63,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275597",
             "time": "2026-03-21 20:45 CET",
-            "sold": 126,
+            "sold": 125,
             "seats": 152,
-            "gross": 2268.0
+            "gross": 2250.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
@@ -80,10 +80,10 @@
       "2026-03-22": {
         "summary": {
           "shows": 18,
-          "sold": 1531,
+          "sold": 1532,
           "seats": 3779,
-          "occupancy": 40.51,
-          "gross": 27834.0
+          "occupancy": 40.54,
+          "gross": 27855.0
         },
         "shows": [
           {
@@ -170,9 +170,9 @@
             "cinema": "CineStar Dortmund",
             "session": "340038",
             "time": "2026-03-22 19:00 CET",
-            "sold": 109,
+            "sold": 110,
             "seats": 410,
-            "gross": 2004.0
+            "gross": 2025.0
           },
           {
             "cinema": "CineStar D\u00fcsseldorf",
@@ -235,10 +235,10 @@
       "2026-03-23": {
         "summary": {
           "shows": 2,
-          "sold": 234,
+          "sold": 235,
           "seats": 708,
-          "occupancy": 33.05,
-          "gross": 4410.0
+          "occupancy": 33.19,
+          "gross": 4428.0
         },
         "shows": [
           {
@@ -253,19 +253,19 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275151",
             "time": "2026-03-23 19:30 CET",
-            "sold": 212,
+            "sold": 213,
             "seats": 502,
-            "gross": 4014.0
+            "gross": 4032.0
           }
         ]
       },
       "2026-03-24": {
         "summary": {
           "shows": 2,
-          "sold": 121,
+          "sold": 122,
           "seats": 504,
-          "occupancy": 24.01,
-          "gross": 2265.0
+          "occupancy": 24.21,
+          "gross": 2283.0
         },
         "shows": [
           {
@@ -280,9 +280,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275153",
             "time": "2026-03-24 19:30 CET",
-            "sold": 90,
+            "sold": 91,
             "seats": 298,
-            "gross": 1707.0
+            "gross": 1725.0
           }
         ]
       },
