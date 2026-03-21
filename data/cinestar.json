@@ -5,10 +5,10 @@
       "2026-03-21": {
         "summary": {
           "shows": 8,
-          "sold": 1002,
+          "sold": 1003,
           "seats": 1896,
-          "occupancy": 52.85,
-          "gross": 18276.0
+          "occupancy": 52.9,
+          "gross": 18294.0
         },
         "shows": [
           {
@@ -63,9 +63,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275597",
             "time": "2026-03-21 20:45 CET",
-            "sold": 125,
+            "sold": 126,
             "seats": 152,
-            "gross": 2250.0
+            "gross": 2268.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
