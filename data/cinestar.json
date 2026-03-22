@@ -5,10 +5,10 @@
       "2026-03-22": {
         "summary": {
           "shows": 20,
-          "sold": 1961,
+          "sold": 1967,
           "seats": 4281,
-          "occupancy": 45.81,
-          "gross": 35670.0
+          "occupancy": 45.95,
+          "gross": 35769.0
         },
         "shows": [
           {
@@ -23,9 +23,9 @@
             "cinema": "CineStar Augsburg",
             "session": "120426",
             "time": "2026-03-22 18:40 CET",
-            "sold": 36,
+            "sold": 35,
             "seats": 162,
-            "gross": 648.0
+            "gross": 630.0
           },
           {
             "cinema": "CineStar Augsburg",
@@ -87,17 +87,17 @@
             "cinema": "CineStar Chemnitz - Am Roten Turm",
             "session": "364124",
             "time": "2026-03-22 19:00 CET",
-            "sold": 188,
+            "sold": 185,
             "seats": 407,
-            "gross": 3384.0
+            "gross": 3330.0
           },
           {
             "cinema": "CineStar Dortmund",
             "session": "340038",
             "time": "2026-03-22 19:00 CET",
-            "sold": 151,
+            "sold": 149,
             "seats": 410,
-            "gross": 2820.0
+            "gross": 2778.0
           },
           {
             "cinema": "CineStar D\u00fcsseldorf",
@@ -127,41 +127,41 @@
             "cinema": "CineStar Erlangen",
             "session": "219835",
             "time": "2026-03-22 19:20 CET",
-            "sold": 35,
+            "sold": 36,
             "seats": 148,
-            "gross": 630.0
+            "gross": 648.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "274142",
             "time": "2026-03-22 19:30 CET",
-            "sold": 391,
+            "sold": 393,
             "seats": 502,
-            "gross": 7278.0
+            "gross": 7314.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276000",
             "time": "2026-03-22 20:45 CET",
-            "sold": 52,
+            "sold": 56,
             "seats": 285,
-            "gross": 966.0
+            "gross": 1035.0
           },
           {
             "cinema": "CineStar Mainz",
             "session": "238927",
             "time": "2026-03-22 19:40 CET",
-            "sold": 151,
+            "sold": 153,
             "seats": 298,
-            "gross": 2718.0
+            "gross": 2754.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
             "session": "232295",
             "time": "2026-03-22 19:30 CET",
-            "sold": 146,
+            "sold": 149,
             "seats": 217,
-            "gross": 2628.0
+            "gross": 2682.0
           },
           {
             "cinema": "CineStar Siegen",
@@ -230,10 +230,10 @@
       "2026-03-25": {
         "summary": {
           "shows": 2,
-          "sold": 86,
+          "sold": 87,
           "seats": 708,
-          "occupancy": 12.15,
-          "gross": 1662.0
+          "occupancy": 12.29,
+          "gross": 1680.0
         },
         "shows": [
           {
@@ -248,9 +248,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275154",
             "time": "2026-03-25 19:15 CET",
-            "sold": 76,
+            "sold": 77,
             "seats": 502,
-            "gross": 1482.0
+            "gross": 1500.0
           }
         ]
       },
@@ -267,19 +267,19 @@
       "2026-03-27": {
         "summary": {
           "shows": 1,
-          "sold": 140,
+          "sold": 137,
           "seats": 502,
-          "occupancy": 27.89,
-          "gross": 2664.0
+          "occupancy": 27.29,
+          "gross": 2607.0
         },
         "shows": [
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275709",
             "time": "2026-03-27 19:30 CET",
-            "sold": 140,
+            "sold": 137,
             "seats": 502,
-            "gross": 2664.0
+            "gross": 2607.0
           }
         ]
       },
