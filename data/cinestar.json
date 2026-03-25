@@ -5,10 +5,10 @@
       "2026-03-25": {
         "summary": {
           "shows": 2,
-          "sold": 253,
+          "sold": 254,
           "seats": 708,
-          "occupancy": 35.73,
-          "gross": 4743.0
+          "occupancy": 35.88,
+          "gross": 4761.0
         },
         "shows": [
           {
@@ -23,9 +23,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275154",
             "time": "2026-03-25 19:15 CET",
-            "sold": 201,
+            "sold": 202,
             "seats": 502,
-            "gross": 3807.0
+            "gross": 3825.0
           }
         ]
       },
@@ -91,10 +91,10 @@
       "2026-03-27": {
         "summary": {
           "shows": 11,
-          "sold": 408,
+          "sold": 409,
           "seats": 3173,
-          "occupancy": 12.86,
-          "gross": 7629.6
+          "occupancy": 12.89,
+          "gross": 7647.6
         },
         "shows": [
           {
@@ -125,9 +125,9 @@
             "cinema": "CineStar Chemnitz - Am Roten Turm",
             "session": "366748",
             "time": "2026-03-27 20:10 CET",
-            "sold": 7,
+            "sold": 8,
             "seats": 168,
-            "gross": 126.0
+            "gross": 144.0
           },
           {
             "cinema": "CineStar Dortmund",
@@ -190,10 +190,10 @@
       "2026-03-28": {
         "summary": {
           "shows": 17,
-          "sold": 384,
+          "sold": 386,
           "seats": 4278,
-          "occupancy": 8.98,
-          "gross": 7191.0
+          "occupancy": 9.02,
+          "gross": 7227.0
         },
         "shows": [
           {
@@ -208,9 +208,9 @@
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
             "session": "250676",
             "time": "2026-03-28 17:30 CET",
-            "sold": 60,
+            "sold": 62,
             "seats": 546,
-            "gross": 1149.0
+            "gross": 1185.0
           },
           {
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
