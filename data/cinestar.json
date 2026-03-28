@@ -5,10 +5,10 @@
       "2026-03-28": {
         "summary": {
           "shows": 17,
-          "sold": 927,
+          "sold": 935,
           "seats": 4278,
-          "occupancy": 21.67,
-          "gross": 17154.6
+          "occupancy": 21.86,
+          "gross": 17304.6
         },
         "shows": [
           {
@@ -23,9 +23,9 @@
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
             "session": "250676",
             "time": "2026-03-28 17:30 CET",
-            "sold": 181,
+            "sold": 183,
             "seats": 546,
-            "gross": 3441.0
+            "gross": 3477.0
           },
           {
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
@@ -87,9 +87,9 @@
             "cinema": "CineStar Erlangen",
             "session": "220088",
             "time": "2026-03-28 19:30 CET",
-            "sold": 82,
+            "sold": 86,
             "seats": 466,
-            "gross": 1476.0
+            "gross": 1548.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
@@ -103,9 +103,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276036",
             "time": "2026-03-28 11:15 CET",
-            "sold": 161,
+            "sold": 163,
             "seats": 285,
-            "gross": 2979.0
+            "gross": 3021.0
           },
           {
             "cinema": "CineStar Fulda",
@@ -242,9 +242,9 @@
             "cinema": "CineStar Erlangen",
             "session": "220089",
             "time": "2026-03-29 19:15 CEST",
-            "sold": 9,
+            "sold": 8,
             "seats": 466,
-            "gross": 162.0
+            "gross": 144.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
@@ -258,9 +258,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276037",
             "time": "2026-03-29 11:30 CEST",
-            "sold": 78,
+            "sold": 79,
             "seats": 285,
-            "gross": 1467.0
+            "gross": 1485.0
           },
           {
             "cinema": "CineStar Mainz",
