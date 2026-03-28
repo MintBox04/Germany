@@ -2,23 +2,13 @@
   "30468": {
     "name": "Dhurandhar: The Revenge",
     "dates": {
-      "2026-03-27": {
-        "summary": {
-          "shows": 0,
-          "sold": 0,
-          "seats": 0,
-          "occupancy": 0,
-          "gross": 0
-        },
-        "shows": []
-      },
       "2026-03-28": {
         "summary": {
-          "shows": 16,
-          "sold": 923,
-          "seats": 3961,
-          "occupancy": 23.3,
-          "gross": 17082.6
+          "shows": 17,
+          "sold": 927,
+          "seats": 4278,
+          "occupancy": 21.67,
+          "gross": 17154.6
         },
         "shows": [
           {
@@ -97,17 +87,17 @@
             "cinema": "CineStar Erlangen",
             "session": "220088",
             "time": "2026-03-28 19:30 CET",
-            "sold": 80,
+            "sold": 82,
             "seats": 466,
-            "gross": 1440.0
+            "gross": 1476.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275710",
             "time": "2026-03-28 19:30 CET",
-            "sold": 313,
+            "sold": 314,
             "seats": 502,
-            "gross": 5868.0
+            "gross": 5886.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
@@ -148,16 +138,24 @@
             "sold": 9,
             "seats": 162,
             "gross": 162.0
+          },
+          {
+            "cinema": "CineStar Remscheid",
+            "session": "78359",
+            "time": "2026-03-28 19:15 CET",
+            "sold": 1,
+            "seats": 317,
+            "gross": 18.0
           }
         ]
       },
       "2026-03-29": {
         "summary": {
           "shows": 15,
-          "sold": 398,
+          "sold": 393,
           "seats": 3882,
-          "occupancy": 10.25,
-          "gross": 7442.4
+          "occupancy": 10.12,
+          "gross": 7352.4
         },
         "shows": [
           {
@@ -244,33 +242,33 @@
             "cinema": "CineStar Erlangen",
             "session": "220089",
             "time": "2026-03-29 19:15 CEST",
-            "sold": 8,
+            "sold": 9,
             "seats": 466,
-            "gross": 144.0
+            "gross": 162.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275845",
             "time": "2026-03-29 19:30 CEST",
-            "sold": 71,
+            "sold": 68,
             "seats": 502,
-            "gross": 1329.0
+            "gross": 1275.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276037",
             "time": "2026-03-29 11:30 CEST",
-            "sold": 80,
+            "sold": 78,
             "seats": 285,
-            "gross": 1503.0
+            "gross": 1467.0
           },
           {
             "cinema": "CineStar Mainz",
             "session": "240559",
             "time": "2026-03-29 15:30 CEST",
-            "sold": 49,
+            "sold": 48,
             "seats": 344,
-            "gross": 936.0
+            "gross": 918.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
@@ -285,10 +283,10 @@
       "2026-03-30": {
         "summary": {
           "shows": 6,
-          "sold": 22,
+          "sold": 26,
           "seats": 1688,
-          "occupancy": 1.3,
-          "gross": 405.0
+          "occupancy": 1.54,
+          "gross": 475.0
         },
         "shows": [
           {
@@ -311,9 +309,9 @@
             "cinema": "CineStar Dortmund",
             "session": "341642",
             "time": "2026-03-30 19:00 CEST",
-            "sold": 0,
+            "sold": 2,
             "seats": 410,
-            "gross": 0
+            "gross": 34.0
           },
           {
             "cinema": "CineStar Erlangen",
@@ -327,9 +325,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275886",
             "time": "2026-03-30 19:30 CEST",
-            "sold": 22,
+            "sold": 24,
             "seats": 502,
-            "gross": 405.0
+            "gross": 441.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
@@ -420,6 +418,16 @@
         ]
       },
       "2026-04-02": {
+        "summary": {
+          "shows": 0,
+          "sold": 0,
+          "seats": 0,
+          "occupancy": 0,
+          "gross": 0
+        },
+        "shows": []
+      },
+      "2026-04-03": {
         "summary": {
           "shows": 0,
           "sold": 0,
