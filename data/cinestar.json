@@ -15,10 +15,10 @@
       "2026-03-30": {
         "summary": {
           "shows": 5,
-          "sold": 51,
+          "sold": 62,
           "seats": 1278,
-          "occupancy": 3.99,
-          "gross": 942.0
+          "occupancy": 4.85,
+          "gross": 1149.0
         },
         "shows": [
           {
@@ -49,9 +49,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275886",
             "time": "2026-03-30 19:30 CEST",
-            "sold": 39,
+            "sold": 50,
             "seats": 502,
-            "gross": 726.0
+            "gross": 933.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
@@ -66,10 +66,10 @@
       "2026-03-31": {
         "summary": {
           "shows": 5,
-          "sold": 33,
+          "sold": 27,
           "seats": 1061,
-          "occupancy": 3.11,
-          "gross": 615.0
+          "occupancy": 2.54,
+          "gross": 507.0
         },
         "shows": [
           {
@@ -92,17 +92,17 @@
             "cinema": "CineStar Erlangen",
             "session": "220091",
             "time": "2026-03-31 19:15 CEST",
-            "sold": 8,
+            "sold": 9,
             "seats": 466,
-            "gross": 144.0
+            "gross": 162.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275939",
             "time": "2026-03-31 19:30 CEST",
-            "sold": 25,
+            "sold": 18,
             "seats": 285,
-            "gross": 471.0
+            "gross": 345.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
@@ -117,10 +117,10 @@
       "2026-04-01": {
         "summary": {
           "shows": 2,
-          "sold": 30,
+          "sold": 29,
           "seats": 204,
-          "occupancy": 14.71,
-          "gross": 540.0
+          "occupancy": 14.22,
+          "gross": 522.0
         },
         "shows": [
           {
@@ -135,9 +135,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275967",
             "time": "2026-04-01 19:00 CEST",
-            "sold": 30,
+            "sold": 29,
             "seats": 204,
-            "gross": 540.0
+            "gross": 522.0
           }
         ]
       },
