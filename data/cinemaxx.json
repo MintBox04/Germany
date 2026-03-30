@@ -2,84 +2,227 @@
   "HO00001327": {
     "name": "dhurandhar: The Revenge",
     "dates": {
-      "2026-04-05": {
+      "2026-04-02": {
         "summary": {
-          "shows": 0,
-          "sold": 0,
-          "seats": 0,
-          "occupancy": 0,
-          "gross": 0
+          "shows": 2,
+          "sold": 2,
+          "seats": 241,
+          "occupancy": 0.83,
+          "gross": 29.98
         },
-        "shows": []
+        "shows": [
+          {
+            "cinema": "G\u00f6ttingen",
+            "session": "22190",
+            "time": "2026-04-02T20:40:00",
+            "sold": 0,
+            "seats": 79,
+            "gross": 0
+          },
+          {
+            "cinema": "Essen",
+            "session": "42141",
+            "time": "2026-04-02T16:45:00",
+            "sold": 2,
+            "seats": 162,
+            "gross": 29.98
+          }
+        ]
       },
-      "2026-03-30": {
+      "2026-04-03": {
         "summary": {
-          "shows": 5,
-          "sold": 207,
-          "seats": 602,
-          "occupancy": 34.39,
-          "gross": 2985.93
+          "shows": 7,
+          "sold": 2,
+          "seats": 604,
+          "occupancy": 0.33,
+          "gross": 29.98
+        },
+        "shows": [
+          {
+            "cinema": "Kiel",
+            "session": "48780",
+            "time": "2026-04-03T20:20:00",
+            "sold": 2,
+            "seats": 52,
+            "gross": 29.98
+          },
+          {
+            "cinema": "Bremen",
+            "session": "22096",
+            "time": "2026-04-03T21:00:00",
+            "sold": 0,
+            "seats": 178,
+            "gross": 0
+          },
+          {
+            "cinema": "Magdeburg",
+            "session": "34824",
+            "time": "2026-04-03T20:20:00",
+            "sold": 0,
+            "seats": 60,
+            "gross": 0
+          },
+          {
+            "cinema": "Sindelfingen",
+            "session": "19123",
+            "time": "2026-04-03T20:30:00",
+            "sold": 0,
+            "seats": 55,
+            "gross": 0
+          },
+          {
+            "cinema": "Stuttgart Liederhalle",
+            "session": "18742",
+            "time": "2026-04-03T20:30:00",
+            "sold": 0,
+            "seats": 100,
+            "gross": 0
+          },
+          {
+            "cinema": "Bielefeld",
+            "session": "24420",
+            "time": "2026-04-03T21:30:00",
+            "sold": 0,
+            "seats": 67,
+            "gross": 0
+          },
+          {
+            "cinema": "M\u00fcnchen",
+            "session": "16451",
+            "time": "2026-04-03T21:30:00",
+            "sold": 0,
+            "seats": 92,
+            "gross": 0
+          }
+        ]
+      },
+      "2026-04-04": {
+        "summary": {
+          "shows": 8,
+          "sold": 55,
+          "seats": 1111,
+          "occupancy": 4.95,
+          "gross": 847.45
         },
         "shows": [
           {
             "cinema": "Berlin",
-            "session": "54749",
-            "time": "2026-03-30T20:50:00",
-            "sold": 85,
-            "seats": 102,
-            "gross": 1175.1500000000005
+            "session": "55442",
+            "time": "2026-04-04T20:10:00",
+            "sold": 54,
+            "seats": 114,
+            "gross": 831.4600000000004
           },
           {
-            "cinema": "Magdeburg",
-            "session": "34281",
-            "time": "2026-03-30T18:05:00",
-            "sold": 30,
-            "seats": 81,
-            "gross": 440.70000000000016
+            "cinema": "Freiburg",
+            "session": "20046",
+            "time": "2026-04-04T21:30:00",
+            "sold": 0,
+            "seats": 62,
+            "gross": 0
+          },
+          {
+            "cinema": "Hannover",
+            "session": "26925",
+            "time": "2026-04-04T12:40:00",
+            "sold": 0,
+            "seats": 114,
+            "gross": 0
+          },
+          {
+            "cinema": "Offenbach",
+            "session": "17410",
+            "time": "2026-04-04T12:30:00",
+            "sold": 0,
+            "seats": 171,
+            "gross": 0
+          },
+          {
+            "cinema": "Bremen",
+            "session": "22076",
+            "time": "2026-04-04T21:15:00",
+            "sold": 0,
+            "seats": 178,
+            "gross": 0
+          },
+          {
+            "cinema": "Essen",
+            "session": "42018",
+            "time": "2026-04-04T19:45:00",
+            "sold": 0,
+            "seats": 191,
+            "gross": 0
+          },
+          {
+            "cinema": "Wolfsburg",
+            "session": "15419",
+            "time": "2026-04-04T11:45:00",
+            "sold": 0,
+            "seats": 151,
+            "gross": 0
+          },
+          {
+            "cinema": "W\u00fcrzburg",
+            "session": "15881",
+            "time": "2026-04-04T20:00:00",
+            "sold": 1,
+            "seats": 130,
+            "gross": 15.99
+          }
+        ]
+      },
+      "2026-03-30": {
+        "summary": {
+          "shows": 4,
+          "sold": 214,
+          "seats": 521,
+          "occupancy": 41.07,
+          "gross": 3070.86
+        },
+        "shows": [
+          {
+            "cinema": "Heilbronn",
+            "session": "15059",
+            "time": "2026-03-30T19:00:00",
+            "sold": 15,
+            "seats": 57,
+            "gross": 221.85000000000002
           },
           {
             "cinema": "Essen",
             "session": "41045",
             "time": "2026-03-30T19:30:00",
-            "sold": 62,
+            "sold": 72,
             "seats": 191,
-            "gross": 927.3800000000005
+            "gross": 1087.2800000000004
           },
           {
-            "cinema": "Heilbronn",
-            "session": "15059",
-            "time": "2026-03-30T19:00:00",
-            "sold": 14,
-            "seats": 57,
-            "gross": 209.86000000000004
+            "cinema": "Berlin",
+            "session": "54749",
+            "time": "2026-03-30T20:50:00",
+            "sold": 90,
+            "seats": 102,
+            "gross": 1238.1000000000006
           },
           {
             "cinema": "Offenbach",
             "session": "17032",
             "time": "2026-03-30T19:00:00",
-            "sold": 16,
+            "sold": 37,
             "seats": 171,
-            "gross": 232.84000000000006
+            "gross": 523.6300000000002
           }
         ]
       },
       "2026-03-31": {
         "summary": {
           "shows": 3,
-          "sold": 128,
+          "sold": 131,
           "seats": 353,
-          "occupancy": 36.26,
-          "gross": 1940.72
+          "occupancy": 37.11,
+          "gross": 1982.69
         },
         "shows": [
-          {
-            "cinema": "Berlin",
-            "session": "54922",
-            "time": "2026-03-31T21:00:00",
-            "sold": 56,
-            "seats": 102,
-            "gross": 858.4400000000004
-          },
           {
             "cinema": "Essen",
             "session": "41048",
@@ -92,29 +235,29 @@
             "cinema": "Freiburg",
             "session": "19371",
             "time": "2026-03-31T11:45:00",
-            "sold": 11,
+            "sold": 14,
             "seats": 60,
-            "gross": 165.89000000000001
+            "gross": 207.86
+          },
+          {
+            "cinema": "Berlin",
+            "session": "54922",
+            "time": "2026-03-31T21:00:00",
+            "sold": 56,
+            "seats": 102,
+            "gross": 858.4400000000004
           }
         ]
       },
       "2026-04-01": {
         "summary": {
-          "shows": 2,
-          "sold": 61,
-          "seats": 232,
-          "occupancy": 26.29,
-          "gross": 933.39
+          "shows": 1,
+          "sold": 18,
+          "seats": 165,
+          "occupancy": 10.91,
+          "gross": 281.82
         },
         "shows": [
-          {
-            "cinema": "Berlin",
-            "session": "54531",
-            "time": "2026-04-01T20:00:00",
-            "sold": 43,
-            "seats": 67,
-            "gross": 651.5700000000003
-          },
           {
             "cinema": "Hamburg-Dammtor",
             "session": "24852",
@@ -125,42 +268,38 @@
           }
         ]
       },
-      "2026-04-02": {
+      "2026-04-05": {
         "summary": {
-          "shows": 0,
+          "shows": 3,
           "sold": 0,
-          "seats": 0,
+          "seats": 205,
           "occupancy": 0,
           "gross": 0
-        },
-        "shows": []
-      },
-      "2026-04-03": {
-        "summary": {
-          "shows": 0,
-          "sold": 0,
-          "seats": 0,
-          "occupancy": 0,
-          "gross": 0
-        },
-        "shows": []
-      },
-      "2026-04-04": {
-        "summary": {
-          "shows": 1,
-          "sold": 52,
-          "seats": 114,
-          "occupancy": 45.61,
-          "gross": 807.48
         },
         "shows": [
           {
-            "cinema": "Berlin",
-            "session": "55442",
-            "time": "2026-04-04T20:10:00",
-            "sold": 52,
-            "seats": 114,
-            "gross": 807.4800000000004
+            "cinema": "Stuttgart Liederhalle",
+            "session": "18746",
+            "time": "2026-04-05T21:15:00",
+            "sold": 0,
+            "seats": 100,
+            "gross": 0
+          },
+          {
+            "cinema": "Krefeld",
+            "session": "25383",
+            "time": "2026-04-05T18:50:00",
+            "sold": 0,
+            "seats": 45,
+            "gross": 0
+          },
+          {
+            "cinema": "Magdeburg",
+            "session": "34817",
+            "time": "2026-04-05T11:40:00",
+            "sold": 0,
+            "seats": 60,
+            "gross": 0
           }
         ]
       }
