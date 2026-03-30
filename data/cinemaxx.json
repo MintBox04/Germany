@@ -2,7 +2,7 @@
   "HO00001327": {
     "name": "dhurandhar: The Revenge",
     "dates": {
-      "2026-04-03": {
+      "2026-04-05": {
         "summary": {
           "shows": 0,
           "sold": 0,
@@ -12,7 +12,130 @@
         },
         "shows": []
       },
-      "2026-04-05": {
+      "2026-03-30": {
+        "summary": {
+          "shows": 5,
+          "sold": 207,
+          "seats": 602,
+          "occupancy": 34.39,
+          "gross": 2985.93
+        },
+        "shows": [
+          {
+            "cinema": "Berlin",
+            "session": "54749",
+            "time": "2026-03-30T20:50:00",
+            "sold": 85,
+            "seats": 102,
+            "gross": 1175.1500000000005
+          },
+          {
+            "cinema": "Magdeburg",
+            "session": "34281",
+            "time": "2026-03-30T18:05:00",
+            "sold": 30,
+            "seats": 81,
+            "gross": 440.70000000000016
+          },
+          {
+            "cinema": "Essen",
+            "session": "41045",
+            "time": "2026-03-30T19:30:00",
+            "sold": 62,
+            "seats": 191,
+            "gross": 927.3800000000005
+          },
+          {
+            "cinema": "Heilbronn",
+            "session": "15059",
+            "time": "2026-03-30T19:00:00",
+            "sold": 14,
+            "seats": 57,
+            "gross": 209.86000000000004
+          },
+          {
+            "cinema": "Offenbach",
+            "session": "17032",
+            "time": "2026-03-30T19:00:00",
+            "sold": 16,
+            "seats": 171,
+            "gross": 232.84000000000006
+          }
+        ]
+      },
+      "2026-03-31": {
+        "summary": {
+          "shows": 3,
+          "sold": 128,
+          "seats": 353,
+          "occupancy": 36.26,
+          "gross": 1940.72
+        },
+        "shows": [
+          {
+            "cinema": "Berlin",
+            "session": "54922",
+            "time": "2026-03-31T21:00:00",
+            "sold": 56,
+            "seats": 102,
+            "gross": 858.4400000000004
+          },
+          {
+            "cinema": "Essen",
+            "session": "41048",
+            "time": "2026-03-31T20:30:00",
+            "sold": 61,
+            "seats": 191,
+            "gross": 916.3900000000004
+          },
+          {
+            "cinema": "Freiburg",
+            "session": "19371",
+            "time": "2026-03-31T11:45:00",
+            "sold": 11,
+            "seats": 60,
+            "gross": 165.89000000000001
+          }
+        ]
+      },
+      "2026-04-01": {
+        "summary": {
+          "shows": 2,
+          "sold": 61,
+          "seats": 232,
+          "occupancy": 26.29,
+          "gross": 933.39
+        },
+        "shows": [
+          {
+            "cinema": "Berlin",
+            "session": "54531",
+            "time": "2026-04-01T20:00:00",
+            "sold": 43,
+            "seats": 67,
+            "gross": 651.5700000000003
+          },
+          {
+            "cinema": "Hamburg-Dammtor",
+            "session": "24852",
+            "time": "2026-04-01T21:30:00",
+            "sold": 18,
+            "seats": 165,
+            "gross": 281.82000000000005
+          }
+        ]
+      },
+      "2026-04-02": {
+        "summary": {
+          "shows": 0,
+          "sold": 0,
+          "seats": 0,
+          "occupancy": 0,
+          "gross": 0
+        },
+        "shows": []
+      },
+      "2026-04-03": {
         "summary": {
           "shows": 0,
           "sold": 0,
@@ -40,113 +163,13 @@
             "gross": 807.4800000000004
           }
         ]
-      },
+      }
+    }
+  },
+  "HO00001339": {
+    "name": "Ustaad Bhagat Singh",
+    "dates": {
       "2026-03-30": {
-        "summary": {
-          "shows": 5,
-          "sold": 191,
-          "seats": 602,
-          "occupancy": 31.73,
-          "gross": 2754.09
-        },
-        "shows": [
-          {
-            "cinema": "Essen",
-            "session": "41045",
-            "time": "2026-03-30T19:30:00",
-            "sold": 58,
-            "seats": 191,
-            "gross": 871.4200000000004
-          },
-          {
-            "cinema": "Offenbach",
-            "session": "17032",
-            "time": "2026-03-30T19:00:00",
-            "sold": 10,
-            "seats": 171,
-            "gross": 143.9
-          },
-          {
-            "cinema": "Berlin",
-            "session": "54749",
-            "time": "2026-03-30T20:50:00",
-            "sold": 85,
-            "seats": 102,
-            "gross": 1175.1500000000005
-          },
-          {
-            "cinema": "Magdeburg",
-            "session": "34281",
-            "time": "2026-03-30T18:05:00",
-            "sold": 27,
-            "seats": 81,
-            "gross": 389.73000000000013
-          },
-          {
-            "cinema": "Heilbronn",
-            "session": "15059",
-            "time": "2026-03-30T19:00:00",
-            "sold": 11,
-            "seats": 57,
-            "gross": 173.89000000000001
-          }
-        ]
-      },
-      "2026-03-31": {
-        "summary": {
-          "shows": 3,
-          "sold": 123,
-          "seats": 353,
-          "occupancy": 34.84,
-          "gross": 1865.77
-        },
-        "shows": [
-          {
-            "cinema": "Berlin",
-            "session": "54922",
-            "time": "2026-03-31T21:00:00",
-            "sold": 54,
-            "seats": 102,
-            "gross": 828.4600000000004
-          },
-          {
-            "cinema": "Freiburg",
-            "session": "19371",
-            "time": "2026-03-31T11:45:00",
-            "sold": 11,
-            "seats": 60,
-            "gross": 165.89000000000001
-          },
-          {
-            "cinema": "Essen",
-            "session": "41048",
-            "time": "2026-03-31T20:30:00",
-            "sold": 58,
-            "seats": 191,
-            "gross": 871.4200000000004
-          }
-        ]
-      },
-      "2026-04-01": {
-        "summary": {
-          "shows": 1,
-          "sold": 43,
-          "seats": 67,
-          "occupancy": 64.18,
-          "gross": 647.57
-        },
-        "shows": [
-          {
-            "cinema": "Berlin",
-            "session": "54531",
-            "time": "2026-04-01T20:00:00",
-            "sold": 43,
-            "seats": 67,
-            "gross": 647.5700000000003
-          }
-        ]
-      },
-      "2026-04-02": {
         "summary": {
           "shows": 0,
           "sold": 0,
@@ -155,13 +178,8 @@
           "gross": 0
         },
         "shows": []
-      }
-    }
-  },
-  "HO00001339": {
-    "name": "Ustaad Bhagat Singh",
-    "dates": {
-      "2026-03-30": {
+      },
+      "2026-04-01": {
         "summary": {
           "shows": 0,
           "sold": 0,
@@ -212,16 +230,6 @@
         "shows": []
       },
       "2026-04-05": {
-        "summary": {
-          "shows": 0,
-          "sold": 0,
-          "seats": 0,
-          "occupancy": 0,
-          "gross": 0
-        },
-        "shows": []
-      },
-      "2026-04-01": {
         "summary": {
           "shows": 0,
           "sold": 0,
