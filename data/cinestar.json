@@ -41,7 +41,7 @@
       },
       "2026-04-02": {
         "summary": {
-          "shows": 6,
+          "shows": 5,
           "sold": 27,
           "seats": 879,
           "occupancy": 3.07,
@@ -81,14 +81,6 @@
             "gross": 18.0
           },
           {
-            "cinema": "CineStar Erfurt",
-            "session": "146122",
-            "time": "2026-04-02 18:45 CEST",
-            "sold": 0,
-            "seats": 0,
-            "gross": 0
-          },
-          {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276189",
             "time": "2026-04-02 19:00 CEST",
@@ -101,10 +93,10 @@
       "2026-04-03": {
         "summary": {
           "shows": 10,
-          "sold": 70,
+          "sold": 69,
           "seats": 1587,
-          "occupancy": 4.41,
-          "gross": 1253.4
+          "occupancy": 4.35,
+          "gross": 1235.4
         },
         "shows": [
           {
@@ -159,9 +151,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276155",
             "time": "2026-04-03 19:00 CEST",
-            "sold": 15,
+            "sold": 14,
             "seats": 285,
-            "gross": 276.0
+            "gross": 258.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
