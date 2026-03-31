@@ -126,10 +126,10 @@
       "2026-04-03": {
         "summary": {
           "shows": 8,
-          "sold": 10,
+          "sold": 17,
           "seats": 1098,
-          "occupancy": 0.91,
-          "gross": 180.0
+          "occupancy": 1.55,
+          "gross": 306.0
         },
         "shows": [
           {
@@ -152,9 +152,9 @@
             "cinema": "CineStar Chemnitz - Am Roten Turm",
             "session": "367318",
             "time": "2026-04-03 19:40 CEST",
-            "sold": 0,
+            "sold": 4,
             "seats": 168,
-            "gross": 0
+            "gross": 72.0
           },
           {
             "cinema": "CineStar Dortmund",
@@ -176,9 +176,9 @@
             "cinema": "CineStar Erlangen",
             "session": "220385",
             "time": "2026-04-03 19:15 CEST",
-            "sold": 10,
+            "sold": 13,
             "seats": 148,
-            "gross": 180.0
+            "gross": 234.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
@@ -283,9 +283,9 @@
       },
       "2026-04-05": {
         "summary": {
-          "shows": 6,
+          "shows": 7,
           "sold": 0,
-          "seats": 397,
+          "seats": 506,
           "occupancy": 0.0,
           "gross": 0
         },
@@ -336,6 +336,14 @@
             "time": "2026-04-05 18:45 CEST",
             "sold": 0,
             "seats": 0,
+            "gross": 0
+          },
+          {
+            "cinema": "CineStar Fulda",
+            "session": "157030",
+            "time": "2026-04-05 19:40 CEST",
+            "sold": 0,
+            "seats": 109,
             "gross": 0
           }
         ]
