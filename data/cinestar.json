@@ -2,16 +2,6 @@
   "30468": {
     "name": "Dhurandhar: The Revenge",
     "dates": {
-      "2026-03-30": {
-        "summary": {
-          "shows": 0,
-          "sold": 0,
-          "seats": 0,
-          "occupancy": 0,
-          "gross": 0
-        },
-        "shows": []
-      },
       "2026-03-31": {
         "summary": {
           "shows": 5,
@@ -293,9 +283,9 @@
       },
       "2026-04-05": {
         "summary": {
-          "shows": 7,
+          "shows": 6,
           "sold": 0,
-          "seats": 506,
+          "seats": 397,
           "occupancy": 0.0,
           "gross": 0
         },
@@ -347,14 +337,57 @@
             "sold": 0,
             "seats": 0,
             "gross": 0
+          }
+        ]
+      },
+      "2026-04-06": {
+        "summary": {
+          "shows": 5,
+          "sold": 8,
+          "seats": 564,
+          "occupancy": 1.42,
+          "gross": 139.9
+        },
+        "shows": [
+          {
+            "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
+            "session": "251024",
+            "time": "2026-04-06 18:45 CEST",
+            "sold": 0,
+            "seats": 148,
+            "gross": 0
           },
           {
-            "cinema": "CineStar Fulda",
-            "session": "157030",
-            "time": "2026-04-05 19:40 CEST",
+            "cinema": "CineStar Dortmund",
+            "session": "342101",
+            "time": "2026-04-06 19:30 CEST",
+            "sold": 1,
+            "seats": 98,
+            "gross": 13.9
+          },
+          {
+            "cinema": "CineStar Erfurt",
+            "session": "146238",
+            "time": "2026-04-06 18:45 CEST",
             "sold": 0,
-            "seats": 109,
+            "seats": 0,
             "gross": 0
+          },
+          {
+            "cinema": "CineStar Erlangen",
+            "session": "220386",
+            "time": "2026-04-06 19:00 CEST",
+            "sold": 0,
+            "seats": 148,
+            "gross": 0
+          },
+          {
+            "cinema": "CineStar Saarbr\u00fccken",
+            "session": "233958",
+            "time": "2026-04-06 19:15 CEST",
+            "sold": 7,
+            "seats": 170,
+            "gross": 126.0
           }
         ]
       }
