@@ -2,16 +2,6 @@
   "30468": {
     "name": "Dhurandhar: The Revenge",
     "dates": {
-      "2026-03-31": {
-        "summary": {
-          "shows": 0,
-          "sold": 0,
-          "seats": 0,
-          "occupancy": 0,
-          "gross": 0
-        },
-        "shows": []
-      },
       "2026-04-01": {
         "summary": {
           "shows": 2,
@@ -41,7 +31,7 @@
       },
       "2026-04-02": {
         "summary": {
-          "shows": 5,
+          "shows": 6,
           "sold": 27,
           "seats": 879,
           "occupancy": 3.07,
@@ -79,6 +69,14 @@
             "sold": 1,
             "seats": 229,
             "gross": 18.0
+          },
+          {
+            "cinema": "CineStar Erfurt",
+            "session": "146122",
+            "time": "2026-04-02 18:45 CEST",
+            "sold": 0,
+            "seats": 0,
+            "gross": 0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
@@ -184,10 +182,10 @@
       "2026-04-04": {
         "summary": {
           "shows": 11,
-          "sold": 10,
+          "sold": 11,
           "seats": 1679,
-          "occupancy": 0.6,
-          "gross": 180.0
+          "occupancy": 0.66,
+          "gross": 198.0
         },
         "shows": [
           {
@@ -250,9 +248,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276122",
             "time": "2026-04-04 11:30 CEST",
-            "sold": 0,
+            "sold": 1,
             "seats": 204,
-            "gross": 0
+            "gross": 18.0
           },
           {
             "cinema": "CineStar Rostock (L\u00fctten Klein)",
@@ -282,10 +280,10 @@
       },
       "2026-04-05": {
         "summary": {
-          "shows": 10,
+          "shows": 9,
           "sold": 2,
-          "seats": 1124,
-          "occupancy": 0.18,
+          "seats": 1033,
+          "occupancy": 0.19,
           "gross": 36.0
         },
         "shows": [
@@ -319,14 +317,6 @@
             "time": "2026-04-05 19:00 CEST",
             "sold": 0,
             "seats": 158,
-            "gross": 0
-          },
-          {
-            "cinema": "CineStar Emden",
-            "session": "98206",
-            "time": "2026-04-05 19:00 CEST",
-            "sold": 0,
-            "seats": 91,
             "gross": 0
           },
           {
@@ -427,6 +417,57 @@
             "sold": 7,
             "seats": 170,
             "gross": 126.0
+          }
+        ]
+      },
+      "2026-04-07": {
+        "summary": {
+          "shows": 5,
+          "sold": 0,
+          "seats": 751,
+          "occupancy": 0.0,
+          "gross": 0
+        },
+        "shows": [
+          {
+            "cinema": "CineStar Augsburg",
+            "session": "171832",
+            "time": "2026-04-07 19:15 CEST",
+            "sold": 0,
+            "seats": 0,
+            "gross": 0
+          },
+          {
+            "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
+            "session": "251016",
+            "time": "2026-04-07 18:45 CEST",
+            "sold": 0,
+            "seats": 148,
+            "gross": 0
+          },
+          {
+            "cinema": "CineStar Erlangen",
+            "session": "220387",
+            "time": "2026-04-07 19:00 CEST",
+            "sold": 0,
+            "seats": 148,
+            "gross": 0
+          },
+          {
+            "cinema": "CineStar Frankfurt am Main Metropolis",
+            "session": "276278",
+            "time": "2026-04-07 19:00 CEST",
+            "sold": 0,
+            "seats": 285,
+            "gross": 0
+          },
+          {
+            "cinema": "CineStar Saarbr\u00fccken",
+            "session": "233959",
+            "time": "2026-04-07 19:15 CEST",
+            "sold": 0,
+            "seats": 170,
+            "gross": 0
           }
         ]
       }
