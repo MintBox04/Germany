@@ -5,10 +5,10 @@
       "2026-04-01": {
         "summary": {
           "shows": 2,
-          "sold": 71,
+          "sold": 73,
           "seats": 204,
-          "occupancy": 34.8,
-          "gross": 1278.0
+          "occupancy": 35.78,
+          "gross": 1314.0
         },
         "shows": [
           {
@@ -23,9 +23,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "275967",
             "time": "2026-04-01 19:00 CEST",
-            "sold": 71,
+            "sold": 73,
             "seats": 204,
-            "gross": 1278.0
+            "gross": 1314.0
           }
         ]
       },
@@ -91,10 +91,10 @@
       "2026-04-03": {
         "summary": {
           "shows": 10,
-          "sold": 69,
+          "sold": 76,
           "seats": 1587,
-          "occupancy": 4.35,
-          "gross": 1235.4
+          "occupancy": 4.79,
+          "gross": 1361.4
         },
         "shows": [
           {
@@ -133,17 +133,17 @@
             "cinema": "CineStar D\u00fcsseldorf",
             "session": "188361",
             "time": "2026-04-03 20:15 CEST",
-            "sold": 0,
+            "sold": 2,
             "seats": 229,
-            "gross": 0
+            "gross": 36.0
           },
           {
             "cinema": "CineStar Erlangen",
             "session": "220385",
             "time": "2026-04-03 19:15 CEST",
-            "sold": 22,
+            "sold": 27,
             "seats": 148,
-            "gross": 396.0
+            "gross": 486.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
@@ -280,10 +280,10 @@
       },
       "2026-04-05": {
         "summary": {
-          "shows": 9,
+          "shows": 10,
           "sold": 2,
-          "seats": 1033,
-          "occupancy": 0.19,
+          "seats": 1124,
+          "occupancy": 0.18,
           "gross": 36.0
         },
         "shows": [
@@ -317,6 +317,14 @@
             "time": "2026-04-05 19:00 CEST",
             "sold": 0,
             "seats": 158,
+            "gross": 0
+          },
+          {
+            "cinema": "CineStar Emden",
+            "session": "98206",
+            "time": "2026-04-05 19:00 CEST",
+            "sold": 0,
+            "seats": 91,
             "gross": 0
           },
           {
