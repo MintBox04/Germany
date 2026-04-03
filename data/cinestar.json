@@ -96,10 +96,10 @@
       "2026-04-04": {
         "summary": {
           "shows": 11,
-          "sold": 51,
+          "sold": 52,
           "seats": 1679,
-          "occupancy": 3.04,
-          "gross": 930.0
+          "occupancy": 3.1,
+          "gross": 948.0
         },
         "shows": [
           {
@@ -162,9 +162,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276122",
             "time": "2026-04-04 11:30 CEST",
-            "sold": 16,
+            "sold": 17,
             "seats": 204,
-            "gross": 288.0
+            "gross": 306.0
           },
           {
             "cinema": "CineStar Rostock (L\u00fctten Klein)",
@@ -195,10 +195,10 @@
       "2026-04-05": {
         "summary": {
           "shows": 10,
-          "sold": 19,
+          "sold": 21,
           "seats": 1124,
-          "occupancy": 1.69,
-          "gross": 342.0
+          "occupancy": 1.87,
+          "gross": 378.0
         },
         "shows": [
           {
@@ -253,9 +253,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276206",
             "time": "2026-04-05 19:00 CEST",
-            "sold": 9,
+            "sold": 11,
             "seats": 285,
-            "gross": 162.0
+            "gross": 198.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
@@ -286,10 +286,10 @@
       "2026-04-06": {
         "summary": {
           "shows": 7,
-          "sold": 21,
+          "sold": 22,
           "seats": 849,
-          "occupancy": 2.47,
-          "gross": 378.0
+          "occupancy": 2.59,
+          "gross": 396.0
         },
         "shows": [
           {
@@ -312,9 +312,9 @@
             "cinema": "CineStar Dortmund",
             "session": "342101",
             "time": "2026-04-06 19:30 CEST",
-            "sold": 1,
+            "sold": 2,
             "seats": 98,
-            "gross": 18.0
+            "gross": 36.0
           },
           {
             "cinema": "CineStar Erfurt",
