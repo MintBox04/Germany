@@ -5,10 +5,10 @@
       "2026-04-04": {
         "summary": {
           "shows": 10,
-          "sold": 121,
+          "sold": 135,
           "seats": 1475,
-          "occupancy": 8.2,
-          "gross": 2211.0
+          "occupancy": 9.15,
+          "gross": 2469.0
         },
         "shows": [
           {
@@ -23,9 +23,9 @@
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
             "session": "250911",
             "time": "2026-04-04 19:10 CEST",
-            "sold": 45,
+            "sold": 52,
             "seats": 148,
-            "gross": 810.0
+            "gross": 936.0
           },
           {
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
@@ -47,17 +47,17 @@
             "cinema": "CineStar D\u00fcsseldorf",
             "session": "188371",
             "time": "2026-04-04 20:15 CEST",
-            "sold": 6,
+            "sold": 5,
             "seats": 229,
-            "gross": 108.0
+            "gross": 90.0
           },
           {
             "cinema": "CineStar Erlangen",
             "session": "220373",
             "time": "2026-04-04 19:15 CEST",
-            "sold": 36,
+            "sold": 42,
             "seats": 148,
-            "gross": 648.0
+            "gross": 756.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
@@ -65,7 +65,7 @@
             "time": "2026-04-04 19:00 CEST",
             "sold": 34,
             "seats": 285,
-            "gross": 645.0
+            "gross": 651.0
           },
           {
             "cinema": "CineStar Rostock (L\u00fctten Klein)",
@@ -79,9 +79,9 @@
             "cinema": "CineStar Saarbr\u00fccken",
             "session": "233957",
             "time": "2026-04-04 20:30 CEST",
-            "sold": 0,
+            "sold": 2,
             "seats": 170,
-            "gross": 0
+            "gross": 36.0
           },
           {
             "cinema": "CineStar Siegen",
@@ -96,10 +96,10 @@
       "2026-04-05": {
         "summary": {
           "shows": 9,
-          "sold": 64,
+          "sold": 61,
           "seats": 943,
-          "occupancy": 6.79,
-          "gross": 1164.0
+          "occupancy": 6.47,
+          "gross": 1110.0
         },
         "shows": [
           {
@@ -114,9 +114,9 @@
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
             "session": "250947",
             "time": "2026-04-05 18:45 CEST",
-            "sold": 13,
+            "sold": 18,
             "seats": 148,
-            "gross": 234.0
+            "gross": 324.0
           },
           {
             "cinema": "CineStar Berlin - CUBIX am Alexanderplatz",
@@ -130,9 +130,9 @@
             "cinema": "CineStar Chemnitz - Am Roten Turm",
             "session": "367345",
             "time": "2026-04-05 19:00 CEST",
-            "sold": 8,
+            "sold": 10,
             "seats": 158,
-            "gross": 144.0
+            "gross": 180.0
           },
           {
             "cinema": "CineStar Emden",
@@ -154,17 +154,17 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276206",
             "time": "2026-04-05 19:00 CEST",
-            "sold": 23,
+            "sold": 15,
             "seats": 285,
-            "gross": 426.0
+            "gross": 282.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276524",
             "time": "2026-04-05 11:30 CEST",
-            "sold": 18,
+            "sold": 16,
             "seats": 152,
-            "gross": 324.0
+            "gross": 288.0
           },
           {
             "cinema": "CineStar Fulda",
@@ -179,10 +179,10 @@
       "2026-04-06": {
         "summary": {
           "shows": 7,
-          "sold": 27,
+          "sold": 28,
           "seats": 849,
-          "occupancy": 3.18,
-          "gross": 498.0
+          "occupancy": 3.3,
+          "gross": 516.0
         },
         "shows": [
           {
@@ -229,9 +229,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276231",
             "time": "2026-04-06 19:00 CEST",
-            "sold": 2,
+            "sold": 3,
             "seats": 285,
-            "gross": 42.0
+            "gross": 60.0
           },
           {
             "cinema": "CineStar Saarbr\u00fccken",
