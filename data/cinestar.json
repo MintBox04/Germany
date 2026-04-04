@@ -47,9 +47,9 @@
             "cinema": "CineStar D\u00fcsseldorf",
             "session": "188371",
             "time": "2026-04-04 20:15 CEST",
-            "sold": 1,
+            "sold": 3,
             "seats": 229,
-            "gross": 18.0
+            "gross": 54.0
           },
           {
             "cinema": "CineStar Erlangen",
@@ -63,9 +63,9 @@
             "cinema": "CineStar Frankfurt am Main Metropolis",
             "session": "276117",
             "time": "2026-04-04 19:00 CEST",
-            "sold": 26,
+            "sold": 24,
             "seats": 285,
-            "gross": 483.0
+            "gross": 447.0
           },
           {
             "cinema": "CineStar Frankfurt am Main Metropolis",
